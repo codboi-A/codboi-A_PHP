@@ -1,0 +1,33 @@
+.Heading{
+  color: red;
+  text-align: center;
+}
+.main{
+  background-color: rgb(137, 197, 218);
+  margin:auto;
+  width: 30%;
+  padding:50px;
+  border-radius: 7px;
+  box-shadow:10px 10px 20px black;
+}
+
+body{
+  background-image: url("/pg.jpg");
+  
+}
+
+.error
+{
+  color: red;
+}
+
+.Heading:hover
+{
+  color: yellowgreen;
+}
+
+.passOk
+{
+  color:green;
+}
+
